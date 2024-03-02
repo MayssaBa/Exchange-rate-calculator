@@ -1,4 +1,4 @@
-<big>Exchange Rate Converter</big>
+<b>Exchange Rate Converter</b>
 <h2>Description</h2>
 <p></p>The Exchange Rate Converter is a simple yet powerful tool designed to facilitate currency exchange calculations quickly and accurately.
 Whether you're a traveler, investor, or business professional,
